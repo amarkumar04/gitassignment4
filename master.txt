@@ -1,0 +1,10 @@
+<html>
+<head><title>WELCOME TO MY FIRST WEB PAGE OVER THE INTERNET</TITLE>
+</head>
+<h1><BIG><CENTER>This is my first website on the internet</h1></BIG</CENTER>
+
+<Body bgcolor="violet">
+
+								 
+</body>
+</html>
